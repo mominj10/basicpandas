@@ -1,2 +1,2 @@
 # basicpandas
-Understanding basics of Pandas Library
+Understanding basics of Pandas Library in python
